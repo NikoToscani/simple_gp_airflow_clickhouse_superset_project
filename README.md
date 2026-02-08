@@ -16,7 +16,7 @@
 7. Ручная загрузка созданной витрины из Greenplum в кластер ClickHouse, включая создание интеграционных таблиц, словарей, а также реплицируемых и распределённых таблиц;
 8. Подключение Apache Superset, создание датасетов на основе витрины и словарей ClickHouse, а также разработка графиков и дашборда.
 
-## english version
+## english version:
 # simple_gp_airflow_clickhouse_superset_project
 Implementation of GP ETL combined with simple Apache Airflow orchestration, manual ClickHouse mart load and Apache Superset dataset and dashboard preparation.
 Software environment:
