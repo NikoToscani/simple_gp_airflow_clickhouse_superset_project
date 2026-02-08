@@ -1,6 +1,6 @@
 ### english version is below
 ## русскоязычная версия:
-# simple_gp_airflow_clickhouse_superset_project
+# Simple Data Platform Workflow
 Реализация ETL-процесса в Greenplum в сочетании с простой оркестрацией через Apache Airflow, ручной загрузкой витрины данных в ClickHouse и подготовкой датасета и дэшборда в Apache Superset.
 Используемая программная среда:
 Локально: DBeaver 25.3.1; gpfdist из дистрибутива greenplum-db-clients-6.20.0
@@ -17,7 +17,7 @@
 8. Подключение Apache Superset, создание датасетов на основе витрины и словарей ClickHouse, а также разработка графиков и дашборда.
 
 ## english version:
-# simple_gp_airflow_clickhouse_superset_project
+# Simple Data Platform Workflow
 Implementation of GP ETL combined with simple Apache Airflow orchestration, manual ClickHouse mart load and Apache Superset dataset and dashboard preparation.
 Software environment:
 Local: DBeaver 25.3.1; gpfdist from greenplum-db-clients-6.20.0 distribution kit
